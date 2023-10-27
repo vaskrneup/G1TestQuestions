@@ -1,0 +1,18 @@
+{
+    "last_update_date": "",
+    "questions": [
+        {
+            "id": 1,
+            "category": "SIGN",
+            "question": "Identify the best answer for the following sign",
+            "related_image_name": "StopSign.png",
+            "answer_choices": [
+                "Stop Sign 150 meters (500 feet) ahead",
+                "Bump 120 meters (400 feet) ahead",
+                "Stop at all times",
+                "Stop only if other vehicles are approching"
+            ],
+            "right_answer_index": 2
+        }
+    ]
+}
