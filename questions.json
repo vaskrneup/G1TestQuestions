@@ -13,6 +13,596 @@
                 "Stop only if other vehicles are approching"
             ],
             "right_answer_index": 2
-        }
-    ]
+        },
+        {
+            "id": 2,
+            "category": "RULE",
+            "question": "When should you use your vehicle's headlights?",
+            "answer_choices": [
+            "Only during the daytime",
+            "Only at night",
+            "When visibility is reduced and you can't see 150 meters ahead",
+            "Never use headlights"
+            ],
+            "right_answer_index": 2
+            },
+            
+            {
+            "id": 3,
+            "category": "RULE",
+            "question": "You are approaching an intersection with a yield sign. What should you do?",
+            "answer_choices": [
+            "Stop and wait for the light to turn green",
+            "Slow down and proceed without stopping",
+            "Stop and wait for a gap in traffic before entering the intersection",
+            "Speed up and cross the intersection quickly"
+            ],
+            "right_answer_index": 2
+            },
+            
+            {
+            "id": 4,
+            "category": "RULE",
+            "question": "What is the maximum speed limit in a residential area in Ontario, unless posted otherwise?",
+            "answer_choices": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+            ],
+            "right_answer_index": 0
+            },
+            
+            {
+            "id": 5,
+            "category": "RULE",
+            "question": "What is the legal blood alcohol concentration (BAC) limit for drivers under the age of 22 in Ontario?",
+            "answer_choices": [
+            "0.05%",
+            "0.08%",
+            "0.02%",
+            "0.00%"
+            ],
+            "right_answer_index": 3
+            },
+            
+            {
+            "id": 6,
+            "category": "RULE",
+            "question": "When is it legal to pass another vehicle on the right in Ontario?",
+            "answer_choices": [
+            "Only on divided highways",
+            "Only on one-way streets",
+            "When the vehicle ahead is making a left turn and there's room to pass safely",
+            "Never pass on the right"
+            ],
+            "right_answer_index": 2
+            },
+            
+            {
+            "id": 7,
+            "category": "SIGN",
+            "question": "What is the correct hand signal for indicating a left turn?",
+            "answer_choices": [
+            "Extend your left arm straight out of the window",
+            "Extend your right arm straight out of the window",
+            "Extend your left arm upward with the elbow bent",
+            "Extend your left arm downward with the palm facing behind you"
+            ],
+            "right_answer_index": 2
+            },
+            
+            {
+            "id": 8,
+            "category": "RULE",
+            "question": "When should you use your four-way flashers (hazard lights)?",
+            "answer_choices": [
+            "While driving in heavy traffic",
+            "When your vehicle is stopped in an emergency or breakdown situation",
+            "Whenever you want to alert other drivers that you're in a hurry",
+            "When you want to park on the side of the road"
+            ],
+            "right_answer_index": 1
+            },
+            
+            {
+            "id": 9,
+            "category": "RULE",
+            "question": "What should you do when you see a school bus with its red lights flashing and its stop arm extended?",
+            "answer_choices": [
+            "Stop at least 20 meters behind the bus and wait until the lights stop flashing",
+            "Slow down and proceed with caution",
+            "Pass the bus if there are no children near it",
+            "Ignore the bus and continue driving"
+            ],
+            "right_answer_index": 0
+            },
+            
+            {
+            "id": 10,
+            "category": "RULE",
+            "question": "In which of the following situations are you allowed to make a U-turn?",
+            "answer_choices": [
+            "At any intersection with a traffic light",
+            "On a curve where visibility is limited",
+            "In a school zone during school hours",
+            "Where a 'No U-turn' sign is posted"
+            ],
+            "right_answer_index": 3
+            },
+
+            {
+                "id": 11,
+                "category": "RULE",
+                "question": "When is it mandatory to wear seat belts in a motor vehicle?",
+                "answer_choices": [
+                "Only if you're the driver",
+                "Only if you're sitting in the front seat",
+                "At all times while the vehicle is in motion, for all occupants",
+                "Only if you're on a highway"
+                ],
+                "right_answer_index": 2
+                },
+                
+                {
+                "id": 12,
+                "category": "RULE",
+                "question": "What is the minimum following distance you should maintain behind the vehicle in front of you on a highway?",
+                "answer_choices": [
+                "1 car length",
+                "2 seconds",
+                "10 meters",
+                "As close as you can without touching the vehicle in front"
+                ],
+                "right_answer_index": 1
+                },
+                
+                {
+                "id": 13,
+                "category": "RULE",
+                "question": "You approach an intersection with a green traffic light, but there are pedestrians in the crosswalk. What should you do?",
+                "answer_choices": [
+                "Honk your horn to alert the pedestrians",
+                "Continue driving without slowing down",
+                "Yield the right-of-way to the pedestrians",
+                "Speed up to clear the intersection quickly"
+                ],
+                "right_answer_index": 2
+                },
+                
+                {
+                "id": 14,
+                "category": "RULE",
+                "question": "What does a solid yellow line in the center of the road indicate?",
+                "answer_choices": [
+                "You can pass other vehicles if it's safe to do so",
+                "No passing allowed in either direction",
+                "Passing is allowed in one direction only",
+                "You must drive in the opposite lane"
+                ],
+                "right_answer_index": 1
+                },
+                
+                {
+                "id": 15,
+                "category": "RULE",
+                "question": "If you're involved in a collision where someone is injured or killed, what must you do?",
+                "answer_choices": [
+                "Exchange insurance information and leave the scene",
+                "Move the injured person to a safer location",
+                "Immediately report the collision to the police",
+                "Leave the scene to avoid getting involved"
+                ],
+                "right_answer_index": 2
+                },
+                
+                {
+                "id": 16,
+                "category": "RULE",
+                "question": "What is the purpose of a crosswalk on the road?",
+                "answer_choices": [
+                "A designated area for pedestrians to rest",
+                "A decorative pattern on the road",
+                "A marked area for pedestrians to safely cross the road",
+                "A lane for bicycles to cross the road"
+                ],
+                "right_answer_index": 2
+                },
+                
+                {
+                "id": 17,
+                "category": "RULE",
+                "question": "What is the legal maximum speed limit on a 400-series highway in Ontario, unless posted otherwise?",
+                "answer_choices": [
+                "90 km/h",
+                "100 km/h",
+                "110 km/h",
+                "120 km/h"
+                ],
+                "right_answer_index": 3
+                },
+                
+                {
+                "id": 18,
+                "category": "RULE",
+                "question": "When must you signal before making a turn?",
+                "answer_choices": [
+                "At least 3 meters (10 feet) before turning",
+                "Only if there are other vehicles around",
+                "At the same time as you start the turn",
+                "Only on one-way streets"
+                ],
+                "right_answer_index": 0
+                },
+                
+                {
+                "id": 19,
+                "category": "RULE",
+                "question": "In Ontario, what is the minimum age to apply for a G1 driver's license with parental consent?",
+                "answer_choices": [
+                "16 years old",
+                "18 years old",
+                "20 years old",
+                "14 years old"
+                ],
+                "right_answer_index": 0
+                },
+                
+                {
+                "id": 20,
+                "category": "RULE",
+                "question": "What should you do when you encounter a yield sign?",
+                "answer_choices": [
+                "Speed up and proceed quickly",
+                "Stop completely and wait for all traffic to clear",
+                "Slow down and be prepared to stop if necessary",
+                "Always go first, regardless of other traffic"
+                ],
+                "right_answer_index": 2
+                },
+                
+                {
+                "id": 21,
+                "category": "RULE",
+                "question": "What is the legal limit for the number of passengers under the age of 22 in a G2 driver's vehicle between midnight and 5 a.m.?",
+                "answer_choices": [
+                "No passengers allowed",
+                "Up to 3 passengers",
+                "Up to 1 passenger",
+                "Unlimited passengers"
+                ],
+                "right_answer_index": 2
+                },
+                
+                {
+                "id": 22,
+                "category": "RULE",
+                "question": "When driving on a road with two or more lanes in the same direction, which lane is typically used for faster-moving traffic?",
+                "answer_choices": [
+                "The far right lane",
+                "The far left lane",
+                "The middle lane",
+                "Any lane, as it doesn't matter"
+                ],
+                "right_answer_index": 1
+                },
+
+                {
+                    "id": 23,
+                    "category": "RULE",
+                    "question": "What should you do when you approach a railway crossing with flashing lights and bells activated?",
+                    "answer_choices": [
+                    "Speed up to clear the crossing quickly",
+                    "Stop and proceed when safe, only if a train is visible",
+                    "Continue driving without stopping or looking for a train",
+                    "Stop and remain behind the white stop line until the lights stop flashing and the bells stop ringing"
+                    ],
+                    "right_answer_index": 3
+                    },
+                
+                    {
+                        "id": 24,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/right_of_island.png",
+                        "answer_choices": [
+                            "Keep to the right of the traffic island.",
+                            "Pass other traffic on the right.",
+                            "Road turns right and then left",
+                            "Winding road ahead"
+                        ],
+                        "right_answer_index": 0
+                    },
+
+                    {
+                        "id": 25,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/prohibited.png",
+                        "answer_choices": [
+                            "Do not enter unless local traffic",
+                            "Prohibited sign",
+                            "Do not enter roadway",
+                            "Means a traffic circle ahead"
+                        ],
+                        "right_answer_index": 1
+                    },
+
+                    {
+                        "id": 26,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/right_hand_signal.jpg",
+                        "answer_choices": [
+                            "I am turning right",
+                            "I am slowing or stopping",
+                            "You may pass me",
+                            "I am turning left"
+                        ],
+                        "right_answer_index": 0
+                    },
+
+                    {
+                        "id": 27,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/ab-signs-ex2.jpg",
+                        "answer_choices": [
+                            "Roundabout ahead",
+                            "Route for large trucks",
+                            "No trucks",
+                            "Permissive sign"
+                        ],
+                        "right_answer_index": 3
+                    },
+                    {
+                        "id": 28,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/traffic-lights-ahead.png",
+                        "answer_choices": [
+                            "Railway crossing ahead",
+                            "Traffic lights ahead, slow down",
+                            "Stop sign 150 meters ahead",
+                            "Bump 120 meters ahead"
+                        ],
+                        "right_answer_index": 1
+                    },
+                    {
+                        "id": 29,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/Give_way_outdoor.jpg",
+                        "answer_choices": [
+                            "You must let traffic in the intersection or close to it go first (you must yield)",
+                            "You have the right-of-way",
+                            "School area ahead",
+                            "Railway crossing ahead"
+                        ],
+                        "right_answer_index": 0
+                    },
+                    {
+                        "id": 30,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/sax547.jpg",
+                        "answer_choices": [
+                            "Keep to the left",
+                            "Winding road ahead",
+                            "Danger, road ends",
+                            "Sharp turn or bend in the road in the direction of the arrow"
+                        ],
+                        "right_answer_index": 3
+                    },
+                    {
+                        "id": 31,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/do-not-turn-left.png",
+                        "answer_choices": [
+                            "Do not turn right at the intersection",
+                            "You are approaching a traffic island",
+                            "Hidden intersection ahead",
+                            "Do not turn left at the intersection"
+                        ],
+                        "right_answer_index": 3
+                    },
+                    {
+                        "id": 32,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/construction-sign.jpg",
+                        "answer_choices": [
+                            "A construction sign replacing flagman on duty",
+                            "Regulatory sign - reduce speed",
+                            "School area ahead",
+                            "Road work ahead"
+                        ],
+                        "right_answer_index": 3
+                    },
+                    {
+                        "id": 33,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/wc4.jpeg",
+                        "answer_choices": [
+                            "Pedestrian crosswalk ahead",
+                            "You are approaching a 4-way intersection",
+                            "You are approaching a hospital zone",
+                            "Railway crossing ahead"
+                        ],
+                        "right_answer_index": 3
+                    },
+                    {
+                        "id": 34,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/school-zone.png",
+                        "answer_choices": [
+                            "Playground zone sign",
+                            "Children playing in residential area",
+                            "It warns that you are coming to a school zone",
+                            "Direction sign for children"
+                        ],
+                        "right_answer_index": 2
+                    },
+                    {
+                        "id": 35,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/alaksa-highway.jpg",
+                        "answer_choices": [
+                            "School zone watch for children playing",
+                            "Provincial park",
+                            "Pedestrian control sign",
+                            "Destination board, shows directions to nearby towns and cities"
+                        ],
+                        "right_answer_index": 3
+                    },
+                    {
+                        "id": 36,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/stop-sign.jpg",
+                        "answer_choices": [
+                            "You must come to a complete stop",
+                            "Stop only if other vehicles are approaching",
+                            "Stop sign 150 meters",
+                            "Bump sign 150 meters"
+                        ],
+                        "right_answer_index": 0
+                    },
+                    {
+                        "id": 37,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/no-u-turn.jpg",
+                        "answer_choices": [
+                            "No right turn permitted",
+                            "No left turn permitted",
+                            "Road slippery when wet",
+                            "Do not make a U-turn"
+                        ],
+                        "right_answer_index": 3
+                    },
+                    {
+                        "id": 38,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/speed-limit-ahead.png",
+                        "answer_choices": [
+                            "Speed limit changes ahead",
+                            "End of 50km/hour zone",
+                            "Maximum speed of 50km/hour from this sign to the next sign",
+                            "Speed limit for rural school zones"
+                        ],
+                        "right_answer_index": 0
+                    },
+
+                    {
+                        "id": 39,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/slow-keep-right.png",
+                        "answer_choices": [
+                            "Caution school bus crossing",
+                            "X intersection for school vehicles",
+                            "School crosswalk sign",
+                            "Slow traffic on multi-lane roads must keep right"
+                        ],
+                        "right_answer_index": 3
+                    },
+                    {
+                        "id": 40,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/passing-lane-ahead.jpg",
+                        "answer_choices": [
+                            "Merge ahead",
+                            "Passing lane ahead sign",
+                            "Road turns to the right",
+                            "Road turns to the left"
+                        ],
+                        "right_answer_index": 1
+                    },
+                    {
+                        "id": 41,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/passing-permitted.png",
+                        "answer_choices": [
+                            "Parallel parking permitted",
+                            "Street racing permitted",
+                            "Two-way traffic",
+                            "Passing permitted"
+                        ],
+                        "right_answer_index": 3
+                    },
+                    {
+                        "id": 42,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/stopping-hand.jpg",
+                        "answer_choices": [
+                            "I am turning right",
+                            "You may pass me",
+                            "I am slowing or stopping",
+                            "I am turning left"
+                        ],
+                        "right_answer_index": 2
+                    },
+                    {
+                        "id": 43,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/divided-ahead.png",
+                        "answer_choices": [
+                            "Divided highway ends",
+                            "Divided highway ahead; traffic travels in both directions on separated roads",
+                            "Road under construction",
+                            "Narrow bridge ahead"
+                        ],
+                        "right_answer_index": 1
+                    },
+                    {
+                        "id": 44,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/not-between.jpg",
+                        "answer_choices": [
+                            "No need to stop for stop signs in the direction of the arrows",
+                            "No entry into the intersection",
+                            "Do not stop in the area between the signs",
+                            "Vehicles approaching from the direction shown must stop"
+                        ],
+                        "right_answer_index": 2
+                    },
+                    {
+                        "id": 45,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/slow-moving-vehicle-sign.jpg",
+                        "answer_choices": [
+                            "Dead end street ahead",
+                            "Slow moving vehicle, travelling at 40km/hour or less",
+                            "Yield right of way",
+                            "Stop sign ahead"
+                        ],
+                        "right_answer_index": 1
+                    },
+                    {
+                        "id": 46,
+                        "category": "SIGN",
+                        "question": "What does this sign mean?",
+                        "related_image_name": "images/pavement-ends.png",
+                        "answer_choices": [
+                            "Paved surface ends ahead",
+                            "Narrow road ahead",
+                            "Intersection ahead",
+                            "Bridge ahead"
+                        ],
+                        "right_answer_index": 0
+                    }
+                ]
+
 }
