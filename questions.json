@@ -288,61 +288,61 @@
                 },
 
                 {
-                    "id": 23,
-                    "category": "RULE",
-                    "question": "What should you do when you approach a railway crossing with flashing lights and bells activated?",
-                    "answer_choices": [
-                    "Speed up to clear the crossing quickly",
-                    "Stop and proceed when safe, only if a train is visible",
-                    "Continue driving without stopping or looking for a train",
-                    "Stop and remain behind the white stop line until the lights stop flashing and the bells stop ringing"
-                    ],
-                    "right_answer_index": 3
-                    },
+                "id": 23,
+                "category": "RULE",
+                "question": "What should you do when you approach a railway crossing with flashing lights and bells activated?",
+                "answer_choices": [
+                "Speed up to clear the crossing quickly",
+                "Stop and proceed when safe, only if a train is visible",
+                "Continue driving without stopping or looking for a train",
+                "Stop and remain behind the white stop line until the lights stop flashing and the bells stop ringing"
+                ],
+                "right_answer_index": 3
+                },
                 
-                    {
-                        "id": 24,
-                        "category": "SIGN",
-                        "question": "What does this sign mean?",
-                        "related_image_name": "images/right_of_island.png",
-                        "answer_choices": [
-                            "Keep to the right of the traffic island.",
-                            "Pass other traffic on the right.",
-                            "Road turns right and then left",
-                            "Winding road ahead"
-                        ],
-                        "right_answer_index": 0
-                    },
+                {
+                "id": 24,
+                "category": "SIGN",
+                "question": "What does this sign mean?",
+                "related_image_name": "images/right-of-island.png",
+                "answer_choices": [
+                "Keep to the right of the traffic island.",
+                "Pass other traffic on the right.",
+                "Road turns right and then left",
+                "Winding road ahead"
+                ],
+                "right_answer_index": 0
+                },
 
-                    {
-                        "id": 25,
-                        "category": "SIGN",
-                        "question": "What does this sign mean?",
-                        "related_image_name": "images/prohibited.png",
-                        "answer_choices": [
-                            "Do not enter unless local traffic",
-                            "Prohibited sign",
-                            "Do not enter roadway",
-                            "Means a traffic circle ahead"
-                        ],
-                        "right_answer_index": 1
-                    },
+                {
+                "id": 25,
+                "category": "SIGN",
+                "question": "What does this sign mean?",
+                "related_image_name": "images/prohibited.png",
+                "answer_choices": [
+                "Do not enter unless local traffic",
+                "Prohibited sign",
+                "Do not enter roadway",
+                "Means a traffic circle ahead"
+                ],
+                "right_answer_index": 1
+                },
 
-                    {
-                        "id": 26,
-                        "category": "SIGN",
-                        "question": "What does this sign mean?",
-                        "related_image_name": "images/right_hand_signal.jpg",
-                        "answer_choices": [
-                            "I am turning right",
-                            "I am slowing or stopping",
-                            "You may pass me",
-                            "I am turning left"
-                        ],
-                        "right_answer_index": 0
-                    },
+                {
+                "id": 26,
+                "category": "SIGN",
+                "question": "What does this sign mean?",
+                "related_image_name": "images/right_hand_signal.jpg",
+                "answer_choices": [
+                "I am turning right",
+                "I am slowing or stopping",
+                "You may pass me",
+                "I am turning left"
+                ],
+                "right_answer_index": 0
+                },
 
-                    {
+                {
                         "id": 27,
                         "category": "SIGN",
                         "question": "What does this sign mean?",
@@ -354,8 +354,9 @@
                             "Permissive sign"
                         ],
                         "right_answer_index": 3
-                    },
-                    {
+                },
+                
+                {
                         "id": 28,
                         "category": "SIGN",
                         "question": "What does this sign mean?",
@@ -367,8 +368,9 @@
                             "Bump 120 meters ahead"
                         ],
                         "right_answer_index": 1
-                    },
-                    {
+                },
+
+                {
                         "id": 29,
                         "category": "SIGN",
                         "question": "What does this sign mean?",
@@ -380,8 +382,9 @@
                             "Railway crossing ahead"
                         ],
                         "right_answer_index": 0
-                    },
-                    {
+                },
+
+                {
                         "id": 30,
                         "category": "SIGN",
                         "question": "What does this sign mean?",
@@ -393,8 +396,9 @@
                             "Sharp turn or bend in the road in the direction of the arrow"
                         ],
                         "right_answer_index": 3
-                    },
-                    {
+                },
+
+                {
                         "id": 31,
                         "category": "SIGN",
                         "question": "What does this sign mean?",
@@ -406,8 +410,9 @@
                             "Do not turn left at the intersection"
                         ],
                         "right_answer_index": 3
-                    },
-                    {
+                },
+
+                {
                         "id": 32,
                         "category": "SIGN",
                         "question": "What does this sign mean?",
@@ -419,8 +424,9 @@
                             "Road work ahead"
                         ],
                         "right_answer_index": 3
-                    },
-                    {
+                },
+
+                {
                         "id": 33,
                         "category": "SIGN",
                         "question": "What does this sign mean?",
@@ -432,8 +438,9 @@
                             "Railway crossing ahead"
                         ],
                         "right_answer_index": 3
-                    },
-                    {
+                },
+
+                {
                         "id": 34,
                         "category": "SIGN",
                         "question": "What does this sign mean?",
