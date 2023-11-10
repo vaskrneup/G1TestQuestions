@@ -282,7 +282,7 @@
             "id": 24,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/right_of_island.png",
+            "related_image_name": "right_of_island.png",
             "answer_choices": [
                 "Keep to the right of the traffic island.",
                 "Pass other traffic on the right.",
@@ -295,7 +295,7 @@
             "id": 25,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/prohibited.png",
+            "related_image_name": "prohibited.png",
             "answer_choices": [
                 "Do not enter unless local traffic",
                 "Prohibited sign",
@@ -308,7 +308,7 @@
             "id": 26,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/right_hand_signal.jpg",
+            "related_image_name": "right_hand_signal.jpg",
             "answer_choices": [
                 "I am turning right",
                 "I am slowing or stopping",
@@ -321,7 +321,7 @@
             "id": 27,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/ab-signs-ex2.jpg",
+            "related_image_name": "ab-signs-ex2.jpg",
             "answer_choices": [
                 "Roundabout ahead",
                 "Route for large trucks",
@@ -334,7 +334,7 @@
             "id": 28,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/traffic-lights-ahead.png",
+            "related_image_name": "traffic-lights-ahead.png",
             "answer_choices": [
                 "Railway crossing ahead",
                 "Traffic lights ahead, slow down",
@@ -347,7 +347,7 @@
             "id": 29,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/Give_way_outdoor.jpg",
+            "related_image_name": "Give_way_outdoor.jpg",
             "answer_choices": [
                 "You must let traffic in the intersection or close to it go first (you must yield)",
                 "You have the right-of-way",
@@ -360,7 +360,7 @@
             "id": 30,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/sax547.jpg",
+            "related_image_name": "sax547.jpg",
             "answer_choices": [
                 "Keep to the left",
                 "Winding road ahead",
@@ -373,7 +373,7 @@
             "id": 31,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/do-not-turn-left.png",
+            "related_image_name": "do-not-turn-left.png",
             "answer_choices": [
                 "Do not turn right at the intersection",
                 "You are approaching a traffic island",
@@ -386,7 +386,7 @@
             "id": 32,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/construction-sign.jpg",
+            "related_image_name": "construction-sign.jpg",
             "answer_choices": [
                 "A construction sign replacing flagman on duty",
                 "Regulatory sign - reduce speed",
@@ -399,7 +399,7 @@
             "id": 33,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/wc4.jpeg",
+            "related_image_name": "wc4.jpeg",
             "answer_choices": [
                 "Pedestrian crosswalk ahead",
                 "You are approaching a 4-way intersection",
@@ -412,7 +412,7 @@
             "id": 34,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/school-zone.png",
+            "related_image_name": "school-zone.png",
             "answer_choices": [
                 "Playground zone sign",
                 "Children playing in residential area",
@@ -425,7 +425,7 @@
             "id": 35,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/alaksa-highway.jpg",
+            "related_image_name": "alaksa-highway.jpg",
             "answer_choices": [
                 "School zone watch for children playing",
                 "Provincial park",
@@ -438,7 +438,7 @@
             "id": 36,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/stop-sign.jpg",
+            "related_image_name": "stop-sign.jpg",
             "answer_choices": [
                 "You must come to a complete stop",
                 "Stop only if other vehicles are approaching",
@@ -451,7 +451,7 @@
             "id": 37,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/no-u-turn.jpg",
+            "related_image_name": "no-u-turn.jpg",
             "answer_choices": [
                 "No right turn permitted",
                 "No left turn permitted",
@@ -464,7 +464,7 @@
             "id": 38,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/speed-limit-ahead.png",
+            "related_image_name": "speed-limit-ahead.png",
             "answer_choices": [
                 "Speed limit changes ahead",
                 "End of 50km/hour zone",
@@ -477,7 +477,7 @@
             "id": 39,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/slow-keep-right.png",
+            "related_image_name": "slow-keep-right.png",
             "answer_choices": [
                 "Caution school bus crossing",
                 "X intersection for school vehicles",
@@ -490,7 +490,7 @@
             "id": 40,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/passing-lane-ahead.jpg",
+            "related_image_name": "passing-lane-ahead.jpg",
             "answer_choices": [
                 "Merge ahead",
                 "Passing lane ahead sign",
@@ -503,7 +503,7 @@
             "id": 41,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/passing-permitted.png",
+            "related_image_name": "passing-permitted.png",
             "answer_choices": [
                 "Parallel parking permitted",
                 "Street racing permitted",
@@ -516,7 +516,7 @@
             "id": 42,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/stopping-hand.jpg",
+            "related_image_name": "stopping-hand.jpg",
             "answer_choices": [
                 "I am turning right",
                 "You may pass me",
@@ -529,7 +529,7 @@
             "id": 43,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/divided-ahead.png",
+            "related_image_name": "divided-ahead.png",
             "answer_choices": [
                 "Divided highway ends",
                 "Divided highway ahead; traffic travels in both directions on separated roads",
@@ -542,7 +542,7 @@
             "id": 44,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/not-between.jpg",
+            "related_image_name": "not-between.jpg",
             "answer_choices": [
                 "No need to stop for stop signs in the direction of the arrows",
                 "No entry into the intersection",
@@ -555,7 +555,7 @@
             "id": 45,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/slow-moving-vehicle-sign.jpg",
+            "related_image_name": "slow-moving-vehicle-sign.jpg",
             "answer_choices": [
                 "Dead end street ahead",
                 "Slow moving vehicle, travelling at 40km/hour or less",
@@ -568,7 +568,7 @@
             "id": 46,
             "category": "SIGN",
             "question": "What does this sign mean?",
-            "related_image_name": "images/pavement-ends.png",
+            "related_image_name": "pavement-ends.png",
             "answer_choices": [
                 "Paved surface ends ahead",
                 "Narrow road ahead",
